@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "startups"
-weight: 40
+weight: 25
 toc: true
 ---
 

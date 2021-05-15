@@ -7,7 +7,7 @@ titleAddition = "Personal Website"
 description = "Hi! I'm Dimitri, widely known as ntemposd. My passion is to facilitate the creation of cut edge tech products."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = ["ntemposd.png"]
 twitterSite = "ntemposd"
 twitterCreator = "ntemposd"
 facebookAuthor = "ntemposd"
@@ -15,7 +15,7 @@ facebookPublisher = "ntemposd"
 ogLocale = "en_US"
 
 ## JSON-LD
-schemaType = "Organization"
+schemaType = "CreativeWork"
 schemaLogo = "logo-doks.png"
 schemaTwitter = "https://twitter.com/ntemposd"
 schemaLinkedIn = "https://www.linkedin.com/in/ntemposd/"

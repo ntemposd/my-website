@@ -12,3 +12,5 @@ menu:
 weight: 21
 toc: true
 ---
+
+{{< img src="lime.jpg" alt="wappier-team" caption="<em>Summer Party</em>" class="border-0" >}}

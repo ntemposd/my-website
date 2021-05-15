@@ -1,7 +1,7 @@
 ---
 title: "Goethe Institute"
 description: "Doks comes with commands for common tasks."
-lead: "Empowered creative artists in transforming their art into a business."
+lead: "Empowered creative artists to transform their art into a viable business."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false

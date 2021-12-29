@@ -5,7 +5,7 @@ lead: "Covid-19 made you stick at home once again, and day to day routine feels 
 date: 2021-12-29T09:19:42+01:00
 lastmod: 2021-12-29T09:19:42+01:00
 draft: false
-weight: 100
+weight: 1
 images: ["say-hello-to-doks.png"]
 contributors: ["ntemposd"]
 ---

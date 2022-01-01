@@ -1,6 +1,6 @@
 ---
 title: "wappier"
-description: "Facilitating the production of contemporary tech solutions that go beyond typical marketing automation."
+description: "My time at wappier."
 lead: "Facilitating the production of contemporary tech solutions that go beyond typical marketing automation."
 date: 2021-05-15T08:48:57+00:00
 lastmod: 2021-05-15T08:48:57+00:00
@@ -13,13 +13,9 @@ weight: 20
 toc: true
 ---
 
-
-
-
 ## About
 
 wappier transforms the way app developers and marketers maximize consumer revenue by using powerful AI that goes beyond typical marketing automation. By analyzing more than 2 billion data points per day, wappier tracks, models, predicts, and influences each consumer’s behavior by delivering individual next best action recommendations in real-time.
-
 
 ## My Role
 

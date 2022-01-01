@@ -8,7 +8,7 @@ The website contains an intro page, professional experience content and a blog.
 
 # To do
 
-- [] Add Professional Experience Content
-- [] Resolve Vulnerabilities
-- [] Add License
-- [] Clean Production Branch
+- [ ] Add Professional Experience Content
+- [ ] Resolve Vulnerabilities
+- [ ] Add License
+- [ ] Clean Production Branch

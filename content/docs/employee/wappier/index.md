@@ -33,7 +33,7 @@ Throughout my time at wappier I have been managing products in the data visualiz
 
 ## Life at wappier
 
-Although the position has been remote, I've been visiting the Athens HQ's once a month to meet my colleagues, mix and mingle with them.
+The position has been remote, I've been visiting the Athens HQ's once a month to meet my colleagues, mix and mingle with them.
 
 {{< img src="wappier.jpg" alt="wappier-team" caption="<em>Summer Party</em>" class="border-0" >}}
 

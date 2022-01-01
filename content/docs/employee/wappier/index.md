@@ -8,7 +8,7 @@ draft: false
 images: [wappier.jpg]
 menu:
   docs:
-    parent: "employee"
+    parent: "tech-worker"
 weight: 20
 toc: true
 ---

@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "employee"
+    parent: "tech-worker"
 weight: 21
 toc: true
 ---

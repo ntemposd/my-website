@@ -1,14 +1,14 @@
 ---
 title: "OK!Thess"
 description: "My time at OK!Thess."
-lead: "One page summary of how to start a new Doks project."
+lead: "Worked with the city of Thessaloniki to prepare the ground for a prolific startup ecosystem establishment."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "employee"
+    parent: "tech-worker"
 weight: 22
 toc: true
 ---

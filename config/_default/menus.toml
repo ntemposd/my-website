@@ -1,8 +1,8 @@
 [[docs]]
-  name = "Employee"
+  name = "Tech Worker"
   weight = 10
-  identifier = "employee"
-  url = "/docs/employee/"
+  identifier = "tech-worker"
+  url = "/docs/tech-worker/"
 
 [[docs]]
   name = "Founder"

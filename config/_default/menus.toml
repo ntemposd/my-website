@@ -28,11 +28,6 @@
   identifier = "leisure"
   url = "/docs/leisure/"
 
-[[docs]]
-  name = "Open Source"
-  weight = 80
-  identifier = "oss"
-  url = "/docs/open-source/"
 
 [[main]]
   name = "Works"

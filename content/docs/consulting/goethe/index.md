@@ -1,6 +1,6 @@
 ---
-title: "Goethe Institute"
-description: "Doks comes with commands for common tasks."
+title: "Goethe Institut"
+description: "Working with Goethe Institute for the Social Entrepreneurship Hubs."
 lead: "Empowered creative artists to transform their art into a viable business."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -21,6 +21,13 @@ The Cultural Entrepreneurship Hubs provide a working environment offering not on
 Through the close networking of the individual Goethe-Institut and links to the creative industries scene in Germany, an entrepreneurial network for cultural businesses will be created that is unique in this form worldwide.
 
 ## My Role
+
+Helping Goethe Thessaloniki to build a local hub for artists by gathering and educating 40 local creatives in how to transform their crafts into a real business.
+
+* Educational content preparation
+* Workshop planning & instruction
+* Business coaching
+* Reporting
 
 ## Workshops
 

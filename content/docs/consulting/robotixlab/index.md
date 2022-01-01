@@ -1,7 +1,7 @@
 ---
 title: "Robotixlab"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "Working with Robotixlab"
+lead: "Helped Robotixlab to scale their business."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,8 +13,6 @@ weight: 31
 toc: true
 ---
 
-https://twitter.com/glplondon
-
 ## About Robotixlab
 
 Robotixlab designs and runs tailor-made workshops, competitions, events, and SciTech communication shows, using robotics, electronics, digital media, programming, making and art as the medium to convey skills like out of the box thinking, learning by doing, teamwork, communication, brainstorming, project planning and also teach science and technology. The company's customers include Mandoulides Schools, Anatolia College, Fryganiotis Schools, Pinewood International School, Costeas Geitonas Schools, Noesis Science Museum, Goulandris Natural History Museum, Children Museum, Future Library foundation, HIVE Athens, Athens Digital Week, British Council Greece, Bulgaria and the U.K., Social Doo, The Mall.
@@ -25,9 +23,10 @@ Robotixlab is all about merging innovation, creativity, design and technology wi
 
 Clio is the place where I deeply dusted my financial planning skills. During a fundraising period I helped Clio's founding team to prepare their fundamental financial analysis, including Income Statements, Cashflows and Sales Projections. After that we've done ad-hoc meetings from time to time so I further consult on various strategic business initiatives.
 
-* Financial Operations Consulting
-* Business model evaluation for
-* Crowdfunding Campaigns Risk Assessment
+* Business model evaluation
+* Business opportunities evaluation
+* Financial operations consulting
+* Crowdfunding campaigns risk assessment
 
 ## Working at Robotixlab
 

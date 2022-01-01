@@ -1,7 +1,7 @@
 ---
 title: "OK!Thess"
 description: "My time at OK!Thess."
-lead: "Worked with the city of Thessaloniki to prepare the ground for a prolific startup ecosystem establishment."
+lead: "Worked with the city of Thessaloniki, Greece to prepare the ground for a prolific startup ecosystem establishment."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false

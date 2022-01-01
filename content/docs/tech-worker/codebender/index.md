@@ -1,6 +1,6 @@
 ---
 title: "codebender"
-description: "Led the preparations of a K12 educational electronics programming product along with its Kickstarter campaign."
+description: "My time at codebender."
 lead: "Led the preparations of a K12 educational electronics programming product along with its Kickstarter campaign."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

@@ -1,6 +1,6 @@
 ---
 title: "Sociallgreen"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "My time at Sociallgreen."
 lead: "Bootstrapped a hardware tech startup to disrupt recycling and failed."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
@@ -23,6 +23,7 @@ Lorem Ipsum Dolor sit amet, Managing a team from 3 to 8 people, managing failure
 
 * Product Management
 * Business operations & financial management
+* Fundraising
 * Marketing management & communications
 * Product management, UI/UX & human-machine interaction design
 

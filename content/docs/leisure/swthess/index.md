@@ -22,8 +22,9 @@ A Startup Weekend (also known as StartupWeekend or SW) is a 54-hour entrepreneur
 Representing the TechStars Community in Thessaloniki, Greece by being the face and voice of TechStars to the locals, while setting up several Startup Weekends in collaboration with local stakeholders, global facilitators and the TechStars Europe HQs. The Community Leader position is held voluntarily and was initially an extension of my OK!Thess duties.
 
 * Volunteer Teams creation
-* Event days planning & operations
+* Event days operations scheduling
 * Sponsorships management
+* Mentors, Speakers and Judges Recruiting
 * Mentoring
 
 ## Startup Weekend Thessaloniki Moments

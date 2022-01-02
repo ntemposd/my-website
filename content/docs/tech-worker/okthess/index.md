@@ -30,3 +30,9 @@ I have been the first contractor that eventually turned into an employee. Main g
 * Website and automation tools development
 
 ## Life at OK!Thess
+
+{{< img src="okthess-1.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}
+
+{{< img src="okthess-2.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}
+
+{{< img src="okthess-3.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}

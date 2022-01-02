@@ -1,6 +1,6 @@
 ---
-title: "The minimum viable business plan"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+title: "A minimum viable business plan"
+description: "A template startup business plan."
 lead: "Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? We are in 2049 and you are building a Spacecraft. How a viable business plan might look like?"
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
@@ -9,11 +9,6 @@ weight: 100
 images: ["say-hello-to-doks.png"]
 contributors: ["ntemposd"]
 ---
-
-## Scope of Work
-Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now?
-Hmm, let's speak on facts... We are in 2049 and you are building a Spacecraft.
-How a viable business plan might look like?
 
 ### Summary
 

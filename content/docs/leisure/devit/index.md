@@ -24,3 +24,9 @@ Lorem Ipsum Dolor Sit Amet
 ## Life at DEVit
 
 Lorem Ipsum Dolor Sit Amet
+
+{{< img src="devit-1.jpg" alt="using-a-photo-booth" caption="<em>Squad Image</em>" class="border-0" >}}
+
+{{< img src="devit-2.jpg" alt="devit-scenes" caption="<em>Talks</em>" class="border-0" >}}
+
+{{< img src="devit-3.jpg" alt="theater-with-attendees" caption="<em>Royal Theater of Thessaloniki</em>" class="border-0" >}}

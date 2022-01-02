@@ -1,7 +1,7 @@
 ---
 title: "Goethe Institut"
 description: "Working with Goethe Institute for the Social Entrepreneurship Hubs."
-lead: "Empowered creative artists to transform their art into a viable business."
+lead: "Empowered creative crafters to transform their art into a viable business."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false

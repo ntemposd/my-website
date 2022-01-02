@@ -1,7 +1,7 @@
 ---
-title: "SXSW Accelerator Pitch"
+title: "SXSW"
 description: "Being an advisory board member at SXSW Accelerator Pitch."
-lead: "Reviewing startup applications for the fintech & big-data tracks while recruiting the best startups around Greece & Cyprus."
+lead: "Reviewed startup applications for the fintech & big-data tracks while being the face and voice of SXSW 2017 in Greece & Cyprus."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -19,7 +19,7 @@ Founded in 1987 in Austin, Texas, SXSW is best known for its conference and fest
 
 ## My Role at SXSW
 
-SXSW Pitch is a featured startup showcase event that has an “open call” for startups to apply. From 2009 to 2021, 572 companies have participated in SXSW Pitch, with over 82% receiving funding and acquisitions in excess of $14.5 billion. I was honored to be the face and voice of SXSW Accelerator Pitch 2017 in Greece & Cyprus, as part of an 100+ people advisory board team comprised of experienced tech professionals from around the globe.
+ I was honored to be the face and voice of SXSW Accelerator Pitch 2017 in Greece & Cyprus, as part of an 100+ people advisory board team comprised of experienced tech professionals from around the globe. SXSW Pitch is a featured startup showcase event that has an “open call” for startups to apply. From 2009 to 2021, 572 companies have participated in SXSW Pitch, with over 82% receiving funding and acquisitions in excess of $14.5 billion.
 
 * Reviewed 80 startup applications for the fintech & big-data tracks
 * Startups recruiting in Greece & Cyprus

@@ -1,7 +1,7 @@
 ---
 title: "Robotixlab"
 description: "Working with Robotixlab"
-lead: "Worked with Robotixlab on business process re-engineering for scaling their business."
+lead: "Consulted Robotixlab on business process re-engineering for scaling their business."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false

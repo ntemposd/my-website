@@ -1,7 +1,7 @@
 ---
 title: "OK!Thess"
 description: "My time at OK!Thess."
-lead: "Worked with the city of Thessaloniki, Greece to prepare the ground for a prolific startup ecosystem establishment."
+lead: "Worked with the City of Thessaloniki, Greece to prepare the ground for a prolific startup ecosystem establishment."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,24 +15,27 @@ toc: true
 
 ## About OK!Thess
 
-Thessaloniki's very first municipal incubator for tech startups backed by 9 local organizations including universities, associations and governmental bodies. OK!Thess is a catalyst for the growth of Thessaloniki's innovation ecosystem.
-It helps entrepreneurs bring innovative ideas to market through an acceleration program that includes training, coaching, matchmaking with mentors and access to capital. OK!Thess is also the place where community meetups and open events allow like-minded peers to mix and connect.
+Thessaloniki's very first municipal incubator for tech startups backed by 9 local organizations including universities, associations and governmental bodies. OK!Thess has been a catalyst for the growth of Thessaloniki's innovation ecosystem.
+It offers an acceleration program for entrepreneurs and a community space for meetups and open events where like-minded peers mix and connect.
 
 ## My Role at OK!Thess
 
-I have been the first contractor that eventually turned into an employee. Main goal was to prepare the ground for a prolific startup ecosystem establishment. I have been managing major parts of the project from scratch to 45 graduated startups & 200+ events/meetups.
+First contractor in a team of 4 people that eventually turned into an full time employee. Main goal was to prepare the ground for a prolific startup ecosystem establishment in Thessaloniki. To visualize that, back in the days Thessaloniki's creative tech community looked like this one.
+
+Throughout my time at OK!Thess I have been managing major parts of the project from scratch to 45 graduated startups & 200+ events/meetups.
 
 * End-to-end project and operations management
 * Hosted startups coaching
 * Event planning and execution
-* Community management
-* Digital and physical marketing
+* Marketing & Community management
 * Website and automation tools development
 
 ## Life at OK!Thess
 
-{{< img src="okthess-1.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}
+Five, on foot, minutes from Thessaloniki's Seafront and three from home with an open space of 1000 square meters looks like a super cool place to work, I confirm! If I had to answer I'm not sure if it's more creative to host 200 people in such a space and working from the balkony, or enjoying a relaxed morning between young tech startup geeks.
 
-{{< img src="okthess-2.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}
+{{< img src="okthess-3.jpg" alt="hackathon-in-progress" caption="<em>Hackathon at the OK!Thess Open Space</em>" class="border-0" >}}
 
-{{< img src="okthess-3.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}
+<!--{{< img src="okthess-1.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}-->
+
+<!--{{< img src="okthess-2.jpg" alt="robotix-workshop-in-progress" caption="<em>Workshop at the new Robotixlab Premises</em>" class="border-0" >}}-->

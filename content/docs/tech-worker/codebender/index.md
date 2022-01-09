@@ -16,20 +16,18 @@ toc: true
 
 Codebender is the easiest, most advanced Arduino IDE for hobbyists, educators, and professionals. Write code easily in a great code editor, find bugs faster with the improved error output, and get inspiration by searching in the 350,000+ Arduino sketches on the platform.
 
-
 ## My Role at codebender
 
-Throughout my time at codebender we've tried to launch a spin-off product for K12 children,  targeting mainly STEM teachers. Playboard was a K12 educational product comprised of
+Throughout my time at codebender we've tried to launch a spin-off product for K12 children, targeting mainly STEM teachers. Playboard was a K12 educational product comprised of
 
-* Advocating the product vision throughout the development cycles
-* Crafting product roadmaps
-* Writing down clear business requirements
-* Leading documentation projects
-* Exporting product data reports
+* Product design
+* Crowdfunding financial analysis and campaign preparation
+* Customer & user research (Educator interviews, Kids workshops)
+* Key account management
 
 ## Life at codebender
 
-Probably the coolest place I have worked. Back in the days cobender's HQs were hosted at P-Space, the Patra's hackerspace for makers and the place where the idea of codebender was born.
+Probably the coolest place I have worked in. Back in the days codebender's HQs were hosted at P-Space, the Patra's hackerspace for makers and the place where the idea of codebender was born. I had moved in Patras, Grecee to join them and work from the comfort of their sofa. There everyday a team of 9 was eating lunch together and almost every evening drinking beers at the office. On Saturdays, we were playing around with electronics goodies.
 
 {{< img src="codebender-1.jpg" alt="arduino-calculator-project" caption="<em>My Arduino halfish-calculator project</em>" class="border-0" >}}
 

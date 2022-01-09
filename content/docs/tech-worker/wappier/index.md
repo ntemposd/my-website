@@ -1,7 +1,7 @@
 ---
 title: "wappier"
 description: "My time at wappier."
-lead: "Facilitating the production of contemporary tech solutions that go beyond typical marketing automation."
+lead: "Facilitating the production of contemporary entertainment tech solutions for on-chain and off-chain apps.​"
 date: 2021-05-15T08:48:57+00:00
 lastmod: 2021-05-15T08:48:57+00:00
 draft: false
@@ -13,24 +13,22 @@ weight: 20
 toc: true
 ---
 
-## About
+## About wappier
 
-wappier transforms the way app developers and marketers maximize consumer revenue by using powerful AI that goes beyond typical marketing automation. By analyzing more than 2 billion data points per day, wappier tracks, models, predicts, and influences each consumer’s behavior by delivering individual next best action recommendations in real-time.
+wappier re-invents AI-driven optimization tech for games of the web 3.0 era, on-chain and off-chain apps, economies and markets. By performing tones of ML calculations per day, wappier’s AI engine models, predicts, and recommends user journeys in real-time. App publishers maximize engagement and revenue while NFT publishers and Crypto marketplaces can leverage wappier’s tech to materially increase their revenues.
 
-## My Role
+## My Role at wappier
 
-Throughout my time at wappier I have been managing products in the data visualization and adtech verticals. My main responsibilities were
+Facilitating the production of contemporary entertainment tech solutions for on-chain and off-chain apps.
 
-* Advocating the product vision throughout the development cycles
 * Crafting product roadmaps
-* Writing down clear business requirements
+* Preparing and tracking features & business requirements
 * Leading documentation projects
-* Exporting product data reports
 
 ## Life at wappier
 
-The position has been remote, I've been visiting the Athens HQ's once a month to meet my colleagues, mix and mingle with them.
+This is a 98% remote role now. Traveling to meet the team and attend events has been really cool pre-Pandemic, hope to do that when back to reality. The coolest story to tell though has been contributing to a growing organization that transitioned from Office to Remote in a week or so. 
 
 {{< img src="wappier.jpg" alt="wappier-team" caption="<em>Summer Party</em>" class="border-0" >}}
 
-{{< img src="wappier-food-time.jpg" alt="wappier-food-time" caption="<em>Food Sessions  </em>" class="border-0" >}}
+<!--{{< img src="wappier-food-time.jpg" alt="wappier-food-time" caption="<em>Food Sessions  </em>" class="border-0" >}}-->

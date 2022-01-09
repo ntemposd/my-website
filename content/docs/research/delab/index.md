@@ -19,9 +19,9 @@ Delab conducted research in the areas of databases, data mining and sensor netwo
 
 ## My Role at Data Engineering Lab
 
-Lorem Ipsum Dolor
+The research was part of my post-grad thesis on Location-based Social Networks at Aristotle University of Thessaloniki, department of informatics, where I mainly compared existing recommendation frameworks with the one created by Data Engineering Lab  
 
 * 200+ Academic Papers review
 * Algorithms' comparison
-* Book design
+* Book illustrations design
 * Document preparation using Springer's LaTeX template

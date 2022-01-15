@@ -18,13 +18,11 @@ toc: true
 Thessaloniki's very first municipal incubator for tech startups backed by 9 local organizations including universities, associations and governmental bodies. OK!Thess has been a catalyst for the growth of Thessaloniki's innovation ecosystem.
 It offers an acceleration program for entrepreneurs and a community space for meetups and open events where like-minded peers mix and connect.
 
-## My Role at OK!Thess
+## My role at OK!Thess
 
-First contractor in a team of 4 people that eventually turned into an full time employee. Main goal was to prepare the ground for a prolific startup ecosystem establishment in Thessaloniki. To visualize that, back in the days Thessaloniki's creative tech community looked like this one.
+First contractor in a team of four that eventually turned into a full time employee. Main goal was to prepare the ground for a prolific startup ecosystem establishment in Thessaloniki. Throughout my time at OK!Thess I have been managing major parts of the project from scratch to 45 graduated startups & 200+ events/meetups.
 
-Throughout my time at OK!Thess I have been managing major parts of the project from scratch to 45 graduated startups & 200+ events/meetups.
-
-* End-to-end project and operations management
+* End-to-end project management
 * Hosted startups coaching
 * Event planning and execution
 * Marketing & Community management
@@ -32,7 +30,7 @@ Throughout my time at OK!Thess I have been managing major parts of the project f
 
 ## Life at OK!Thess
 
-Five, on foot, minutes from Thessaloniki's Seafront and three from home with an open space of 1000 square meters looks like a super cool place to work, I confirm! If I had to answer I'm not sure if it's more creative to host 200 people in such a space and working from the balkony, or enjoying a relaxed morning between young tech startup geeks.
+Five, on foot, minutes from Thessaloniki's Seafront and three from home with an open space of 1000 square meters looks like a cool place to work, I confirm! If I had to answer I'm not sure if it's more creative to host 200 people in such a space and working from the balkony, or enjoying a relaxed morning between young tech startup geeks.
 
 {{< img src="okthess-3.jpg" alt="hackathon-in-progress" caption="<em>Hackathon at the OK!Thess Open Space</em>" class="border-0" >}}
 

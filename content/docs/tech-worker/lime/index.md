@@ -17,7 +17,7 @@ toc: true
 
 Located in more than 100 cities worldwide, Lime provides a modern mode of transportation for our changed world. Lime is founded on a simple idea that all communities deserve access to smart, affordable mobility. Through the equitable distribution of shared scooters, bikes and transit vehicles, Lime aims to reduce dependence on personal automobiles for short distance transportation and leave future generations with a cleaner, healthier planet.
 
-## My Role at Lime Micromobility
+## My role at Lime
 
 When Lime launched in Thessaloniki, Greece back in 2019, an opportunity to cross paths with a global tech unicorn and observe operations from the inside was just around the corner. I really felt super curious, and somehow managed to land a short-term lime worker position where I was mainly hunting scooters with a small lorry around the city during night shifts.   
 
@@ -27,9 +27,9 @@ When Lime launched in Thessaloniki, Greece back in 2019, an opportunity to cross
 * Deploying scooters at the deployment points
 * On-the-Spot supporting scooter riders with the app
 
-## Life at Lime, Thessaloniki
+## Life at Lime
 
-Lime's warehouse strategically positioned at the city's downtown with a 24/7 modus operandi has been a great place for all 30 team members, mainly drivers and hardware engineers. Highlight of this position, you get as many scooter rides as you want for free.
+Lime's warehouse strategically positioned at the Thessaloniki, Greece downtown following a 24/7 modus operandi has been a team of 20, mainly drivers and hardware engineers. Highlight of this position? Hmmm... you get as many scooter rides as you want for free.
 
 {{< img src="lime.jpg" alt="scooter-in-the-middle-of-road" caption="<em>Thessaloniki Down Town</em>" class="border-0" >}}
 

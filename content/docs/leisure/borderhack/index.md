@@ -1,7 +1,7 @@
 ---
 title: "BorderHACK"
 description: "a 3-day hackathon for projects that will assist refugees on their journey, and a smooth transition into their new homes."
-lead: "In October 2015 we decided that we could no longer turn a blind eye to the ongoing refugee crisis. That's why we built BorderHACK (borderhack.org) - A hackathon that helped local techies to built solutions for those who were coming in."
+lead: "In October 2015 we decided that we could no longer turn a blind eye to the ongoing refugee crisis."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
@@ -15,36 +15,38 @@ toc: true
 
 ## About BorderHack
 
-In 2015 alone, more than 530,000 refugees and migrants have risked their lives crossing the sea to reach Europe. Winter is coming and many have to experience cold, hunger, and fatigue as they dangerously cross borders by boat and on foot. Borders themselves may not be going anywhere, but good ideas, smart solutions, and our humanity transcends all of that - all nations and borders. This was the inspiration for BorderHACK, a 3-day hackathon for projects that will assist refugees on their journey, and a smooth transition into their new homes, wherever that may be.
+In 2015 alone, more than 500,000 refugees and migrants risked their lives crossing the sea to reach Europe. BorderHack is a game-changing hackathon weekend aimed to produce tech solutions to the many challenges that refugees faced along their journeys during the refugee crisis pick of 2015.
 
-## My Role
+## My Role at BorderHack
 
-I've been the main organizer of BorderHack, doing administrative work while trying to inspire attendees by connecting them with real refugee needs.
+At the core organizers team of BorderHack; tried to connect teams with real refugee and host organization needs.
 
-* Coding the hackathon's website
-* Handling ticket sales
-* Booking sponsors
-* Logistics
-* Mentoring teams
+* Coding the Hackathon's website
+* Hackathon Production & Program Management
+* Event & Logistics administration
 
-## Refugee fields
+## BorderHack's output
+
+**Bordershare**: An imformation sharing website that aggregates all donation points within a city for goods to be distributed at refugee fields.
+
+**Across**: Aims to match people who speak Arabic and Farsi with field volunteers in order to solve language translation and communication issues of refugees.
+
+**Volreach**: Volreach is a platform for sourcing demographic data for volunteers making recruiting in times of crisis feasible.
+
+BorderHack's [Code Repository](https://github.com/BorderHACK-org "BorderHack GitHub Organization")
+
+## BorderHack moments
+
+Get to the BorderHACK album [here](https://www.facebook.com/BorderHACK/photos "BorderHack Photos").
+
+### Refugee fields
 
 {{< img src="borderhack-4.jpg" alt="refugee-camp" caption="<em>Refugee Camp - Idomeni 2015</em>" class="border-0" >}}
 
 {{< img src="borderhack-3.jpg" alt="Dimitris-at-the-field" caption="<em>Field Visit</em>" class="border-0" >}}
 
-## The BorderHack weekend
+### The Hackathon weekend
 
 {{< img src="borderhack-1.jpg" alt="creative-planning-with-post-it" caption="<em>Creative Planning</em>" class="border-0" >}}
 
 {{< img src="borderhack-2.jpg" alt="teams-working" caption="<em>Teams Working</em>" class="border-0" >}}
-
-## The weekend's outcome
-
-**Bordershare**: Το BorderShare είναι μια ιστοσελίδα διακίνησης πληροφορίας σχετικά με το προσφυγικό. Συγκεντρώνουμε όλα τα σημεία δωρεάς αγαθών προς διανομή σε προσφυγικούς καταυλισμούς. Μπορείς να βοηθήσεις;
-
-**Across**: To Across έχει ως στόχο να ταιριάζει ανθρώπους που είναι σε θέση να μιλούν αραβικά, περσικά και άλλες γλώσσες που απαιτούνται από τους πρόσφυγες και τους εθελοντές για την επικοινωνία μεταξύ τους.
-
-**Volreach**: To Volreach είναι μια πλατφόρμα για τη συλλογή και διαχείριση των δημογραφικών στοιχείων των εθελοντών που καθιστά τη διαχείριση τους πιο αποδοτική και αποτελεσματική.
-
-BorderHack's GitHub Repositories

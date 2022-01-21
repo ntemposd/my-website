@@ -17,7 +17,7 @@ toc: true
 
 Infant Programming team of the late 2011. Kiwe's goal was to provide people with highly useful applications matching their needs. Using fresh academic knowledge, combined with high quality market research, Kiwe Development team was trying to fill market gaps based on real costumer needs and requirements.
 
-## My Role Kiwe
+## My role at Kiwe
 
 Being the only business student in a group of tech students with zero work experience is quite fun. Kiwe was a first touchpoint with tech teams and the first step into the transition from university into the real tech market.
 

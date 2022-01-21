@@ -17,7 +17,7 @@ toc: true
 
 Clio Muse Tours is an award-winning company that aims to generate universal cultural awareness and guide users in every part of the world, utilizing pioneering technology. Since 2014, Clio has collaborated with world-class cultural institutions and museums, we have curated more than 400 audio tours in over 15 countries and we have built a strong network of partners including the world’s largest tour operators. Today, Clio Muse Tours specializes in the creation and curation of audio and virtual tours as well as the development of state-of-the-art technologies for cultural institutions.
 
-## My Role at Clio
+## My role at Clio
 
 Add about Giannis. During a fundraising period I helped Clio's founding team to prepare their fundamental financial analysis, including Income Statements, Cashflows and Sales Projections. After that we've done ad-hoc meetings from time to time so I further consult on various strategic business initiatives.
 

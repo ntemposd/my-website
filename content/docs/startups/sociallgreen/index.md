@@ -17,7 +17,7 @@ toc: true
 
 Sociallgreen adds fun to flat everyday recycling while offering organizations a way to reward green actions. Sociallgreen was a tech startup, founded in 2012, that developed a concept new recycling approach for smart cities. Sociallgreen's approach integrates game logic and social network theories to enable a unique physical recycling game.
 
-## My Role at Sociallgreen
+## My role at Sociallgreen
 
 Role? Is startup founder a role? I have never seen anyone hiring a Startup Founder :). Being the only business person in a group of tech founders with no prior work experience is quite fun, while trying to hire when you never got hired is even funnier. At Sociallgreen I was doing what a tech startup needs to grow.
 

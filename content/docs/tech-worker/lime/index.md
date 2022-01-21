@@ -19,17 +19,16 @@ Located in more than 100 cities worldwide, Lime provides a modern mode of transp
 
 ## My role at Lime
 
-When Lime launched in Thessaloniki, Greece back in 2019, an opportunity to cross paths with a global tech unicorn and observe operations from the inside was just around the corner. I really felt super curious, and somehow managed to land a short-term lime worker position where I was mainly hunting scooters with a small lorry around the city during night shifts.   
+When Lime launched in Thessaloniki back in 2019, an opportunity to cross paths with a global tech unicorn and observe operations from the inside was just around the corner. I really felt super curious, and somehow managed to land a short-term Lime worker position for mainly hunting scooters with a Mini-Van around the city during nights.   
 
-* Hunting scooters around the city using Lime's van
+* Hunting scooters around the city
 * Scooters quality assurance
-* Scooters battery check
 * Deploying scooters at the deployment points
 * On-the-Spot supporting scooter riders with the app
 
 ## Life at Lime
 
-Lime's warehouse strategically positioned at the Thessaloniki, Greece downtown following a 24/7 modus operandi has been a team of 20, mainly drivers and hardware engineers. Highlight of this position? Hmmm... you get as many scooter rides as you want for free.
+Lime's scooter warehouse strategically positioned at Thessaloniki's downtown was not only the workplace of ~20 drivers and hardware engineers, but also a nice place for huddling before and after shifts. Highlight of this position? Apart from getting unlimited scooter rides for free; getting a flavor of all Thessaloniki's neighborhoods.
 
 {{< img src="lime.jpg" alt="scooter-in-the-middle-of-road" caption="<em>Thessaloniki Down Town</em>" class="border-0" >}}
 

@@ -15,17 +15,16 @@ toc: true
 
 ## About Kiwe
 
-Infant Programming team of the late 2011. Kiwe's goal was to provide people with highly useful applications matching their needs. Using fresh academic knowledge, combined with high quality market research, Kiwe Development team was trying to fill market gaps based on real costumer needs and requirements.
+Infant Programming team of the late 2011. Kiwe's goal was to provide customers with applications matching their needs. Using fresh academic knowledge combined with high quality market research, Kiwe Development showcased some interesting projects during the early application development days.
 
 ## My role at Kiwe
 
-Being the only business student in a group of tech students with zero work experience is quite fun. Kiwe was a first touchpoint with tech teams and the first step into the transition from university into the real tech market.
+Being the only business student in a group of tech students with zero tech industry experience has been illuminating for what's coming. Kiwe was a first touchpoint with techies and the first step into the tech industry. My work was mainly on
 
-* Business plan preparation
-* Product & business requirements gathering
-* Customer lead generation
-* Social media marketing
+* Business Plan Preparation
+* Customer Research
+* Marketing Management
 
 ## Life at Kiwe
 
-Early garage years with lots of ideas, beers and dirty implementations. If parsing the Olympic Games website to render the Olympics schedule into an Android app is now a joke, back in the days was feasible for the short-term.
+Early years with lots of ideas:bulb:, beers:beers: and rapid implementations:iphone:. Sitting all together around one :one: screen for hours, doing things like parsing the 2012 Olympics website schedule to create an Android App :sweat_smile:.

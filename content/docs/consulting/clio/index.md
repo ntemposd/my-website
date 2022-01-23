@@ -1,7 +1,7 @@
 ---
 title: "Clio Muse"
 description: "Working with Clio Muse."
-lead: "Worked with Clio's CFO financial engineering process."
+lead: "Crafting Clio's financial statements for a seed funding round."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -15,16 +15,16 @@ toc: true
 
 ## About Clio
 
-Clio Muse Tours is an award-winning company that aims to generate universal cultural awareness and guide users in every part of the world, utilizing pioneering technology. Since 2014, Clio has collaborated with world-class cultural institutions and museums, we have curated more than 400 audio tours in over 15 countries and we have built a strong network of partners including the world’s largest tour operators. Today, Clio Muse Tours specializes in the creation and curation of audio and virtual tours as well as the development of state-of-the-art technologies for cultural institutions.
+Clio Muse Tours specializes in the creation of audio and virtual tours as well as the development of state-of-the-art technologies for cultural institutions. Since 2014, Clio has collaborated with world-class cultural institutions and museums, curating more than 400 audio tours in over 15 countries and building a partners network that includes the world’s largest tour operators.
 
 ## My role at Clio
 
-Add about Giannis. During a fundraising period I helped Clio's founding team to prepare their fundamental financial analysis, including Income Statements, Cashflows and Sales Projections. After that we've done ad-hoc meetings from time to time so I further consult on various strategic business initiatives.
+Advising Clio's founding team on how to prepare their Financial Statements during a seed fundraising period. The work was extended to timely meetings for further discussion on various strategic business initiatives.
 
+* Fundamental Financial Analysis
 * Pricing Models
-* Company Valuation & Investment proposals creation
-* Lorem Ipsum Dolor
+* Company Valuation
 
 ## Working at Clio
 
-Most of my work here has been remote; however,
+Back in the days Clio was hosted at ACEIN, the incubation center of the Athens University of Economics and Business; the place where our workshops taking place. ACE offers a co-working space packed with students and educational events, it's always cool to be around young entrepreneurs. That round enabled Clio to move in Athens down town some time later.

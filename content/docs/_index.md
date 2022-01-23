@@ -1,5 +1,5 @@
 ---
-title : "Professional Experience"
+title : "Works"
 description: "Dimitri's featured works"
 lead: "Dimitri's professional experience - featured works"
 date: 2020-10-06T08:48:23+00:00

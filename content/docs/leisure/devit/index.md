@@ -1,7 +1,7 @@
 ---
 title: "DEVit Web Conference"
 description: "My time at DEVit Web Conference."
-lead: "Core Organizer and Board Member of a 400+ people web development conference."
+lead: "Core Organizer and Board Member of a Web Development Conference."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
@@ -15,17 +15,17 @@ toc: true
 
 ## About DEVit
 
-DEVit was a community driven Web Development Conference started in 2015 at Thessaloniki, Greece. It has been known for its top speaking talent, developers who were on the edge of technology frontiers and its diverse mix of attendees. DEVit was back in the days a defacto yearly meeting point of all seasoned web development professionals in Greece and the Balkans.
+DEVit has been a community driven Web Development Conference in Thessaloniki, Greece. Started back in 2015 DEVit is known for its top speaking talent, the advanced workshops on all trending web technologies and its diverse mix of attendees. DEVit has been the defacto yearly meeting-point of all seasoned web development professionals in Greece.
 
 ## My role at DEVit
 
-DEVit has been a non-profit conference powered by SKGTECH NGO and is organized by volunteers. All members ___
+DEVit has been organized by a team of 30+ volunteers and powered by SKGTECH NGO, all members were working remotely throughout the year and getting together the days before the event for preparing the ground and drinking :beers:. Being part of such an exceptional 30 people diverse team for 5 consecutive years is a story worth telling to anyone. Apart from being the Board Member at SKGTECH my works at DEVit included
 
-proceeds are used to bringing top-tier speakers and organizing advanced workshops on all trending web technologies.
+* Project & Marketing Management
+* Financial Operations
+* Ticketing Administration
 
 ## DEVit moments
-
-Part of a 30 volunteers team for 5 consecutive years
 
 {{< img src="devit-1.jpg" alt="using-a-photo-booth" caption="<em>Squad Image</em>" class="border-0" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Great Little Place"
 description: "Working with the GLP team."
-lead: "Consulted GLP team on a location-based algorithm recommender implementation."
+lead: "Consulted GLP team on a location-based algorithm recommender."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
@@ -12,21 +12,18 @@ menu:
 weight: 33
 toc: true
 ---
-https://twitter.com/glplondon
 
 ## About Great Little Place
 
-Great Little Place reveals the best hidden restaurants and bars in 40 cities. (Pocket-lint) - Great Little Place (GLP) is a new app that has been created with the sole aim of presenting you with the hidden and less known bars and restaurants around you, or an area you are planning to visit.
+The Great Little Place (GLP) App has been created with the sole aim of presenting the hidden and less known bars and restaurants around you, or an area you are planning to visit. Great Little Place revealed the best hidden restaurants and bars in 40 cities.
 
 ## My Input at GLP
 
-Lorem Ipsum dolor sit amet.
+At a point where GLP had accumulated enough Points of Interest in their database, they were searching for their next step; make those data work. I was called to help the GLP team build an algorithm that recommends locations to the App users.
 
-Mainly
-
-* Application Assesment
+* Recommender Framework Guidelines
+* Algorithm Parameters
 * Competition Analysis
-* Location-based recommendation framework Proposal
 
 ## Working for GLP
 

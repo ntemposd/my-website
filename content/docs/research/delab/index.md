@@ -19,7 +19,7 @@ The Data Engineering Lab of the Department of Informatics at Aristotle Universit
 
 ## My Role at Delab
 
-The work was part of my post-graduate studies at the Aristotle University of Thessaloniki, as part of my thesis I researched the field of Location-based Social Networks and compared existing recommendation frameworks with the one created by Delab. The work's output enriched by Research Supervisors has been published by Springer in the series of Electrical and Computer Engineering.
+The work was part of my post-graduate studies at the Aristotle University of Thessaloniki. As part of my thesis I researched the field of Location-based Social Networks and compared existing recommendation frameworks with the one created by Delab. The work's output enriched by Research Supervisors has been published by Springer in the series of Electrical and Computer Engineering.
 
 * Academic Papers Review
 * Algorithms Comparison
